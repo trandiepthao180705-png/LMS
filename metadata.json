@@ -1,0 +1,6 @@
+{
+  "name": "Cò Lọc LMS - Phân loại Bắt buộc & Tham khảo",
+  "description": "Bộ lọc thông báo LMS tiếng Hàn phân loại việc Bắt buộc (Đỏ) và Tham khảo (Xanh) kèm giải thích nghĩa ngầm tiếng Việt cho sinh viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
